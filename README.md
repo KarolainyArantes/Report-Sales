@@ -7,7 +7,7 @@ A construção de relatórios  é uma etapa fundamental para nós, analistas, po
 
 ### Objetivo <img src="https://github.com/user-attachments/assets/fc07fdbf-bb60-4c3f-b2e4-1b99bb7d2792" align="center" width="50" />
 
-O desempenho de vendas é um dos principais indicadores de sucesso em qualquer organização. Este relatório tem como objetivo apresentar os resultados de vendas e lucros, oferecendo uma pespectiva detalhada em relação às metas alcançadas e aos resultados gerais. Além disso, busca analisar os eventos que contribuíram para altos desempenhos, orientando investimentos estratégicos, e oportunidades de melhoria para áreas com desempenho abaixo da média. 
+O desempenho de vendas é um dos principais indicadores de sucesso em qualquer organização. Este relatório tem como objetivo apresentar os resultados de vendas e lucros, oferecendo uma perspectiva detalhada em relação às metas alcançadas e aos resultados gerais. Além disso, busca analisar os eventos que contribuíram para altos desempenhos, orientando investimentos estratégicos, e oportunidades de melhoria para áreas com desempenho abaixo da média. 
 
 ### Ferramentas <img src="https://github.com/user-attachments/assets/575a3038-d71e-4597-ba93-01922048fbe5" align="center" width="35" /> 
 
